@@ -1,0 +1,5 @@
+{
+  "name": "拖延症互助會 (Procrastinators Anonymous)",
+  "description": "一個讓拖延症患者互相取暖、鼓勵與督促的社群平台。分享你的逃避事項，獲得他人的加油打氣。",
+  "requestFramePermissions": ["geolocation"]
+}
